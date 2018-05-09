@@ -1,0 +1,25 @@
+#lab-1,
+#lab-2,
+#lab-3 {
+  margin-top: 15px;
+}
+
+.nav.nav-tabs {
+  height: 41.5px;
+}
+
+img.album-image {
+  width: 150px;
+  float:left;
+  margin: 10px;
+}
+
+#lab-2 h5 {
+  display: flex;
+  justify-content: center;
+}
+
+#lab-3 button:not(.close) {
+  display: block;
+  margin: 0 auto;
+}
